@@ -90,3 +90,4 @@ docker compose up --build
 - **D (Data/Jeu)**
   - schéma relationnel (users, channels, scores, quiz, questions)
   - logique quiz mode
+Ajout Abid
